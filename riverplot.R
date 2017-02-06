@@ -1,5 +1,5 @@
 library(data.table)
-setwd("H:/Prosjekter/viz/")
+setwd("~/viz/commute-viz")
 
 data <- fread("opr_data.csv")
 
